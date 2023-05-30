@@ -40,7 +40,6 @@ Além do material fornecido no repositório do curso, estou explorando os seguin
 
 - [Kaggle](https://www.kaggle.com/): Plataforma para compartilhar, explorar e colaborar em projetos de ciência de dados. Visite meu perfil [aqui](https://www.kaggle.com/senhoreko).
 - [Towards Data Science](https://towardsdatascience.com/): Publicação online com artigos e tutoriais sobre diversos tópicos relacionados à ciência de dados.
-- [DataCamp](https://www.datacamp.com/): Plataforma de aprendizado interativo com cursos práticos de ciência de dados.
 
 
 
