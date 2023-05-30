@@ -43,4 +43,6 @@ Além do material fornecido no repositório do curso, estou explorando os seguin
 - [DataCamp](https://www.datacamp.com/): Plataforma de aprendizado interativo com cursos práticos de ciência de dados.
 
 
-- Em breve será adicionado os módulos faltantes
+
+
+### Em breve será adicionado os módulos faltantes de 1 a 5
