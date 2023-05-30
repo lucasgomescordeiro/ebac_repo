@@ -1,6 +1,6 @@
 # Repositório do Curso de Ciência de Dados da EBAC
 
-Bem-vindo(a) ao meu repositório pessoal do **Curso de Ciência de Dados da EBAC (Escola Britânica de Artes Criativas)**. Aqui você encontrará todos os materiais, projetos e recursos que estou utilizando para acompanhar e aprofundar meus estudos nessa área emocionante.
+Bem-vindo(a) ao meu repositório pessoal do **Curso de Ciência de Dados da EBAC (Escola Britânica de Artes Criativas)**. Aqui você encontrará todos os materiais, projetos e recursos que estou utilizando para acompanhar e aprofundar meus estudos.
 
 ## Estrutura do Repositório
 
