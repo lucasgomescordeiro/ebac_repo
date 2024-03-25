@@ -1,0 +1,21 @@
+1.Monte um passo a passo para o Bagging
+
+Passo 1: Criar as amostragens com repetição a partir do dataset principal (bootstrap)
+
+Passo 2: Criar um modelo para cada amostragem do bootstrap (base learners)
+
+
+Passo 3: Fzer a agregação dos modelos (aggregating)
+
+Problemas de Classificação: o resultado de cada estimador será uma base, e a que for mais abundante na votação individual dos estimadores, será a classe definida como resultado final.
+
+Problemas de Regressão: o algoritmo fará a média dos resultados de cada um dos estimadores.
+
+
+
+2.Explique com suas palavras o Bagging
+
+O bagging cria amostras de treinamento a partir do dataframe principal, atraves da tecnica de bootstrap 
+em que cada amostra é selecionada dentro do dataframe principal, podendo conter linhas repetidas nas amostras.
+No passo seguinte cada amostra é usada para treinar um modelo de machine learning. No final os modelos são agregados
+por votação majoritaria em caso de modelos de classificação ou média dos resultados em caso de modelos de regresão.
